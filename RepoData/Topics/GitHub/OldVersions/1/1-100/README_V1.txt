@@ -1,0 +1,13 @@
+python
+linux
+screenshot
+gplv3
+sh
+md
+txt
+gpl3
+screentex
+screentext
+screenshot-tool
+text-grab
+text-screenshot 
